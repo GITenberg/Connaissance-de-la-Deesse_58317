@@ -1,16 +1,21 @@
 _repo: Connaissance-de-la-Deesse_58317
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Valéry, Paul
     gutenberg_agent_id: '49451'
     url: http://www.gutenberg.org/2009/agents/49451
+covers:
+- cover_type: archival
+  image_path: 58317-h/images/cover.jpg
 creator:
   author:
     agent_name: Fabre, Lucien
     gutenberg_agent_id: '49889'
     url: http://www.gutenberg.org/2009/agents/49889
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58317#Connaissance-de-la-Deesse
 gutenberg_issued: '2018-11-20'
 gutenberg_type: Text
 identifiers:
